@@ -24,7 +24,7 @@ const Contact = () => {
           </Link>
           <Link
             className="border border-gray-600 text-white px-6 py-2.5 rounded-lg"
-            href="https://github.com/sonamver274"
+            href='https://github.com/sonamver274-sketch'
           >
             GitHub
           </Link>
